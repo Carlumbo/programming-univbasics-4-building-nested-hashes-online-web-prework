@@ -1,4 +1,4 @@
-def monopoly
+def monopoly 
 	monopoly = {}
 
 end
